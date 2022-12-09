@@ -117,6 +117,8 @@ https://github.com/PaddlePaddle/PaddleOCR
 
 https://github.com/jiangnanboy/doc_ai
 
+https://github.com/deepjavalibrary/djl
+
 https://github.com/jiangnanboy/java-springboot-paddleocr
 
 https://github.com/greycode/ocrlite
