@@ -38,8 +38,7 @@ paddle-ocr c++编译的dll库以及模型(det_db:文本检测；cls:文本方向
 </p>
 <br/>
 
-链接：https://pan.baidu.com/s/1iWMXHDBq9jblzkEDhwq-uw 
-提取码：5ce3
+链接: https://pan.baidu.com/s/1_I3074n7WIv7Pyc_EoaBQA 提取码: fjh3
 
 项目启动后访问 http://localhost:8080/swagger-ui/ 测试
 
