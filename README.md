@@ -24,7 +24,7 @@
 </details>
 
 #### About
-【( 新的java ocr项目，java源码实现ocr功能，无需调用dll或者exe文件 ----> https://github.com/jiangnanboy/JiaJiaOCR )】
+【( 新的java ocr项目，完全用java源码实现ocr功能，无需调用dll或者exe文件 ----> https://github.com/jiangnanboy/JiaJiaOCR )】
 
 
 不同于[java-springboot-paddleocr](https://github.com/jiangnanboy/java-springboot-paddleocr) ，本项目利用JNI加载paddle-ocr的C++编译后的dll库，并利用springboot进行web部署访问，效果等同于java-springboot-paddleocr。
